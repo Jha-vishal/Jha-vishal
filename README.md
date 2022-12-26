@@ -4,7 +4,6 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jha-vishal.github.io//)](https://jha-vishal.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=jha-vishal.jha-vishal)
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2044%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-931-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 
