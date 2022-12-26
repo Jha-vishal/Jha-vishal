@@ -99,30 +99,12 @@ Windows                  39 hrs 10 mins      ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   49.25% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.96% 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
-
-```
-
-
-
  Last Updated on 26/12/2022 01:43:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Jha-vishal/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-____________________________________-___________________________----------------_____________----
-
-# Developer Profile
-
-Hi there! I'm a software developer with a passion for building efficient, scalable, and user-friendly applications.
 
 ## GitHub Stats
 
