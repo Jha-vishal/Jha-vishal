@@ -1,15 +1,28 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Software Engineer at <a href="https://www.oneorigin.us/">OneOrigin
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Developer Profile
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+Hi there! I'm a software developer with a passion for building efficient, scalable, and user-friendly applications.
+
+## Tech Stack
+
+I have experience working with a wide range of technologies, but my current favorite tech stack includes:
+
+- Language: Python, NodeJS, C++
+- Web Framework: Django,NodeJS
+- Database: PostgreSQL, MySQL
+- Front-end: ReactJS
+- Testing: Pytest, Junit
+
+I'm always eager to learn new technologies and expand my skillset.
+
+I'm actively interested in the freelance and open-source community and love to contribute to projects and collaborating with other developers.
+
+Thanks for visiting my profile! If you have any questions or would like to work together, don't hesitate to reach out.
+
+
+[![Linkedin: Vishal](https://img.shields.io/badge/-Vishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhavishal11/)](https://www.linkedin.com/in/jhavishal11/)
+![GitHub followers](https://img.shields.io/github/followers/Jha-vishal?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jha-vishal.github.io//)](https://jha-vishal.github.io/)
+![](https://visitor-badge.glitch.me/badge?page_id=jha-vishal.jha-vishal)
 
 ### 📫 Like to meet me?
 
@@ -19,28 +32,22 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 👇 Hit in your console or terminal to connect with me.
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const Vishal = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "C++"],
+    askMeAbout: ["Cloud", "AWS", "Azure", "Web dev", "DevOps"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["NodeJS", "Django"],
         },
-        mobileApp: {
-            native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongo", "MySql", "DynamoDB"],
+        misc: ["Firebase", "Numpy", "Panda", "Sci-Kit learn", "Open-cv"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
@@ -51,32 +58,11 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-931-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 776 Contributions in the Year 2022
- > 
-> 📦 181.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-🌆 Daytime    350 commits    ██████████░░░░░░░░░░░░░░░   40.6% 
-🌃 Evening    272 commits    ████████░░░░░░░░░░░░░░░░░   31.55% 
-🌙 Night      121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.04%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -92,25 +78,24 @@ Sunday       175 commits    █████░░░░░░░░░░░░�
 
 ```
 
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 hrs 30 mins       ███████████████░░░░░░░░░░   60.09% 
-XML                      2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.57% 
+NodeJs                   18 hrs 30 mins      ███████████████░░░░░░░░░░   60.09% 
+Python                   8 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.57% 
 JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Protocol Buffer          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+React                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 🔥 Editors: 
-Android Studio           8 hrs 5 mins        ██████████████████████░░░   88.14% 
+AWS Lambda               8 hrs 5 mins        ██████████████████████░░░   88.14% 
 WebStorm                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86%
 
 💻 Operating System: 
-Mac                      9 hrs 10 mins       █████████████████████████   100.0%
+Windows                  39 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -130,6 +115,6 @@ Dart                     4 repos             █░░░░░░░░░░�
  Last Updated on 26/12/2022 01:43:08 UTC
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Jha-vishal/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
