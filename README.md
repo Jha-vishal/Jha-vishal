@@ -7,16 +7,15 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 
-Hello and welcome to my profile! I'm a highly skilled software developer with a focus on backend development and AWS infrastructure. With over 5 years of experience in the industry, I have a strong foundation in Node.js and a deep understanding of how to build and deploy scalable, reliable applications using the AWS ecosystem.
+Hello and welcome to my profile! I'm a highly skilled software developer with a focus on backend development and AWS infrastructure. With over 2+ years of experience in the industry, I have a strong foundation in Node.js and a deep understanding of how to build and deploy scalable, reliable applications using the AWS ecosystem.
 
 Whether it's building a serverless architecture on AWS Lambda or optimizing the performance of a Node.js application, I have the skills and expertise to deliver top-quality results. I'm always eager to learn new technologies and take on new challenges, and I believe that collaboration and continuous learning are key to success in the fast-paced world of software development.
 
 Thank you for considering me for your project. I look forward to the opportunity to work with you and help bring your vision to life.
 
-
 ### 📫 Like to meet me?
 👇 Hit the down button to connect with me.
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
 
 <a href="https://calendly.com/vishal-e-jha/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
@@ -28,10 +27,9 @@ I have experience working with a wide range of technologies, but my current favo
 - Web Framework: Django,NodeJS
 - Database: PostgreSQL, MySQL
 - Front-end: ReactJS
-- Testing: Pytest, Junit
+- Testing: Pytest, Junit test
 
-I'm always eager to learn new technologies and expand my skillset.
-I'm actively interested in the freelance and open-source community and love to contribute to projects and collaborating with other developers.
+I'm actively interested and open to any freelance and open-source community gig and love to contribute to projects and collaborating with other developers.
 Thanks for visiting my profile! If you have any questions or would like to work together, don't hesitate to reach out.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
