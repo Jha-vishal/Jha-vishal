@@ -118,3 +118,22 @@ Dart                     4 repos             █░░░░░░░░░░�
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Jha-vishal/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+____________________________________-___________________________----------------_____________----
+
+# Developer Profile
+
+Hi there! I'm a software developer with a passion for building efficient, scalable, and user-friendly applications.
+
+## GitHub Stats
+
+| Statistic          | Value                                                                                                                                                                                            |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Total Repositories | [![Repo Count](https://img.shields.io/github/repos/Jha-vishal/repo-count.svg)](https://github.com/Jha-vishal)                                                                                   |
+| Total Commits      | [![Commit Count](https://img.shields.io/github/commit-activity/m/Jha-vishal/repo.svg)](https://github.com/Jha-vishal)                                                                            |
+| Languages Used     | [![Languages](https://img.shields.io/github/languages/count/Jha-vishal/repo.svg)](https://github.com/Jha-vishal)                                                                                |
+
+These statistics are updated in real-time and can be viewed on my [GitHub profile](https://github.com/Jha-vishal).
+
+I'm actively involved in the open-source community and enjoy contributing to projects and collaborating with other developers.
+
+Thanks for visiting my profile! If you have any questions or would like to work together, don't hesitate to reach out.
