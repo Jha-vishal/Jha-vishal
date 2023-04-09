@@ -93,12 +93,10 @@ Windows                  39 hrs 10 mins      ███████████�
 
 ```
 
- Last Updated on 26/12/2022 01:43:08 UTC
+ Last Updated on 9/April/2023 01:43:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Jha-vishal/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
-These statistics are updated in real-time and can be viewed on my [GitHub profile](https://github.com/Jha-vishal).
 
