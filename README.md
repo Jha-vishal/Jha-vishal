@@ -7,8 +7,9 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 
-Hello and welcome to my profile! 
-I'm a professional skilled software developer with a focus on backend development and AWS Infrastructure with serverless/enterprise application, having over 2+ years of experience in the industry. I have a strong foundation in Node.js and a deep understanding of how to build and deploy scalable, reliable applications using the AWS ecosystem.
+Namaste! and Hello! 
+Welcome to my profile! 
+I'm a professional skilled software developer with a focus on backend development and AWS Infrastructure with serverless/enterprise application, having over 3+ years of experience in the IT industry. I have a strong foundation in Node.js and a deep understanding of how to build and deploy scalable, reliable applications using the AWS ecosystem.
 
 Whether it's building a serverless architecture on AWS Lambda or optimizing the performance of a Node.js application, I have the skills and expertise to deliver top-quality results. I'm always eager to learn new technologies and take on new challenges, and I believe that collaboration and continuous learning are key to success in the fast-paced world of software development.
 
