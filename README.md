@@ -39,7 +39,7 @@ Thanks for visiting my profile! If you have any questions or would like to work 
 ```javascript
 const Vishal = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C++"],
+    code: ["Javascript", "Python", "NodeJs"],
     askMeAbout: ["Cloud", "AWS", "Azure", "Web dev", "DevOps"],
     technologies: {
         backEnd: {
