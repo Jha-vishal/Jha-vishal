@@ -43,15 +43,15 @@ const Vishal = {
     askMeAbout: ["Cloud", "AWS", "Azure", "Web dev", "DevOps"],
     technologies: {
         backEnd: {
-            js: ["NodeJS", "Django"],
+            js: ["NodeJS", "Python"],
         },
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "DynamoDB"],
-        misc: ["Firebase", "Numpy", "Panda", "Sci-Kit learn", "Open-cv"]
+        databases: ["NoSQl", "DynamoDB"],
+        misc: ["Firebase", "Numpy", "Panda", "Sci-Kit learn", "Open-cv", "Contact centre", "Google Dialogue Flow"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "automation, Next.js, Kubernetes",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -59,19 +59,6 @@ const Vishal = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-```
-📅 **I'm Most Productive on Sunday** 
-
-```overall commits statistics
-Monday       ███░░░░░░░░░░░░░░░░░░░░░░   14.39% commits
-Tuesday      ███░░░░░░░░░░░░░░░░░░░░░░   11.95% commits
-Wednesday    ███░░░░░░░░░░░░░░░░░░░░░░   13.46% commits
-Thursday     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% commits
-Friday       ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% commits
-Saturday     ███░░░░░░░░░░░░░░░░░░░░░░   14.5% commits
-Sunday       █████░░░░░░░░░░░░░░░░░░░░   20.3% commits
-
-```
 
 📊 **This Week I Spent My Time On** 
 
@@ -95,10 +82,8 @@ MacOS                    39 hrs 10 mins      ███████████�
 
 ```
 
- Last Updated on 13/May/2023 01:43:08 UTC
-<!--END_SECTION:waka-->
+ 
+**These Readme stats are generated using GitHub action [awesome-readme-stats](https://github.com/Jha-vishal/waka-readme-stats)**
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/Jha-vishal/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+NOTE: The top languages do not indicate my skill level or anything similar. It is simply a metric indicating which languages I have hosted on GitHub, based on usage across repositories. 
 
